@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Tempo — Task Manager
 
 A calm, premium-looking task manager built with React, Vite, and Lucide icons. All UI and styles live in a single component file: `src/TaskManager.jsx`.
@@ -30,3 +31,7 @@ npm run preview
 - Keyboard shortcuts: `/` to search, `N` for a new task, `Esc` to close
 
 A few realistic starter tasks are seeded on first launch so the dashboard feels alive. Delete them and add your own, or clear the `tempo.tasks.v1` LocalStorage key to reset.
+=======
+# Task-Managar-by-Mashru
+A modern, minimal Task Manager to organize daily tasks, manage priorities, track progress, and boost productivity. Features include task creation, editing, deletion, due dates, search, filters, and automatic LocalStorage saving.
+>>>>>>> 1b78367b85f7d8ebea61702178d0dd43a8c50f1d
